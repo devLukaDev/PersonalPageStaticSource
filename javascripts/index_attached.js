@@ -25,7 +25,7 @@ function openLink(target){
 }
 
 function discordDialog(){
-    alert('You can find me under the name `LifelessNerd`');
+    alert('You can find me under the name `devLukaDev`');
 }
 
 function toAbout(){
